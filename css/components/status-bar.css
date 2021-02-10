@@ -1,11 +1,9 @@
-@import "reset.css";
-body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
-
 .status-bar {
+  position: fixed;
+  top: 0px;
   display: flex;
   justify-content: center;
+  width: 100%;
   padding: 5px 3px;
 }
 .status-bar_column {
