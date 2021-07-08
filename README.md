@@ -60,13 +60,13 @@
 
 ### 8. 로그인페이지에서 다른페이지로 넘어갈때
 
-<img src = "img/movePage.JPG">
+<img src = "img/movePage.jpg">
 <br/>
 </br>
 
 ### 9. 화면크기가 일정크기를 넘었을때
 
-<img src = "img/pageSize.JPG">
+<img src = "img/pageSize.jpg">
 <br/>
 </br>
 
@@ -76,4 +76,4 @@
 
 # 클론코딩하면서 부족했던 부분
 
-#### <span style ="color:red">HTML</span>부분은 어렵게 느껴지지 않았다.<span style ="color:blue">CSS</span>도 그렇게 어렵게 느껴지지 않았으나 <span style ="color:blue">CSS</span>를 이용해 애니메이션 효과를 내는 부분이 미숙했다.
+### <span style ="color:red">HTML</span>부분은 어렵게 느껴지지 않았다.<span style ="color:blue">CSS</span>도 그렇게 어렵게 느껴지지 않았으나 <span style ="color:blue">CSS</span>를 이용해 애니메이션 효과를 내는 부분이 미숙했다.
