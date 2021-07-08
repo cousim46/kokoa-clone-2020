@@ -72,7 +72,7 @@
 
 # 사용한 언어
 
-### <span style ="color:red">HTML</span>, <span style ="color:blue">CSS</span>
+### <span style = "color:red" >HTML</span>, <span style = "color:blue" >CSS</span>
 
 # 클론코딩하면서 부족했던 부분
 
