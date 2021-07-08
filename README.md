@@ -69,6 +69,7 @@
 <img src = "img/pageSize.JPG">
 <br/>
 </br>
+
 # 사용한 언어
 
 ### <span style ="color:red">HTML</span>, <span style ="color:blue">CSS</span>
